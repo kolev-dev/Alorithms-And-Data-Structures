@@ -10,6 +10,7 @@ public class IS_App {
         System.out.println("Unsorted Array");
         IS_Utility.printArray(myArray);
 
+
 //        call the method to sort the elements
         IS_Utility.InsertionSort(myArray);
 
